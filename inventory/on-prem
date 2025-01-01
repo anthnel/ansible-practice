@@ -1,0 +1,6 @@
+[ca_server]
+ca.home.lan
+
+[servers]
+jakku.home.lan
+bogano.home.lan
